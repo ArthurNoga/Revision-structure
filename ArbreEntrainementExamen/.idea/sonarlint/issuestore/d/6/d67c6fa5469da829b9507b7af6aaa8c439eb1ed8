@@ -1,0 +1,9 @@
+
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ôèøÿÿÿÿ
+F
+java:S1168Y"+Return an empty collection instead of null.(æŒÜæùÿÿÿÿ
+h	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š ´†úÿÿÿÿ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(Ğ¼œ—
+Š
+java:S1319"oThe type of the "fils" object should be an interface such as "List" rather than the implementation "ArrayList".(ÀÓŞÈùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°º·Ğÿÿÿÿÿ
